@@ -1,0 +1,23 @@
+//
+//  Default appearance styles.
+//  _____________________________________________
+
+[data-content-type='jason_fontawesome'] {
+  > i {
+    &:not(.fab):not(.fas) {
+      min-height: 100px;
+      background-color: #f8f8f8;
+      display: block;
+      border: 1px solid #e9e9e9;
+    }
+  }
+}
+
+// Required when using a custom SVG icon for your content type in the Page Builder panel
+.icon-icon {
+  content: url('@{baseDir}Jason_PageBuilderIcon/css/images/content-type/jason-fontawesome/appearance/font-awesome-flag-brands.svg');
+  width: 16px;
+  height: 16px;
+  margin-bottom: -2px;
+  margin-left: 1px;
+}
