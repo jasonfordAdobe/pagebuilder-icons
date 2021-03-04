@@ -1,6 +1,6 @@
 {
     "name": "jasonfordadobe/pagebuilder-icon",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Page Builder content type for Icon.",
     "require": {
         "magento/framework": "*",

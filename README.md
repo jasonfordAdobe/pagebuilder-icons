@@ -17,6 +17,18 @@ We're using the Free icon set which can be [viewed here](https://fontawesome.com
 ## Installation
 Composer instructions to go here.....
 
+## Usage
+Once installed, it will show within your Page Builder CMS interface under Media.
+
+Drag the element on to screen, within a row or column, and use the settings to add your icon, choose a colour and pixel size.
+
+![GIF showing use of icons](image_adding_to_pb.gif "GIF showing use of icons")
+
 ## To do
 * Test thoroughly
-* Improve preview functionality
+* Default icon font size
+* Make icon font size able to use EM, REM and other values other than PX
+
+## Boring stuff
+
+This code is provided "as is" and not intended for production use. It is created to improve my own personal workflow and is not endoresed or supported by myself, my employer or anyone else associated with the code. If you use this, you do so at your own risk, and with full knowledge of what you're doing.
