@@ -14,6 +14,8 @@ Please see [Font Awesome](https://fontawesome.com/) for more details about how t
 
 We're using the Free icon set which can be [viewed here](https://fontawesome.com/icons?d=gallery&m=free).
 
+License: [https://fontawesome.com/license/free](https://fontawesome.com/license/free)
+
 ## Installation
 Composer instructions to go here.....
 
